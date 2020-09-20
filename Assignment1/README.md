@@ -1,2 +1,2 @@
 # Assignment Link
-[Link](https://www.basketball-reference.com/draft/NBA_2014.html)
+[The Link for Scraping is here](https://www.basketball-reference.com/draft/NBA_2014.html)
