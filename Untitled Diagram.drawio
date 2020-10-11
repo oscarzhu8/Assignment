@@ -1,1 +1,159 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T13:45:52.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.9" etag="SI3_kMymVQUQ4euD-LMp" type="github"><diagram id="0x38cvvZ1bBZOAFDikBa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-11T16:47:03.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="h0rsqsMB1q3ukMCJxotX" version="13.7.9" type="github">
+  <diagram id="0x38cvvZ1bBZOAFDikBa" name="Page-1">
+    <mxGraphModel dx="655" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e6gerDq43n6z80vcDyS_-1" value="Enjoy Shanghai Website&lt;br&gt;--&lt;br&gt;For students who study here" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-7" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="260" as="sourcePoint" />
+            <mxPoint x="380" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="180" />
+              <mxPoint x="350" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-18" value="District Inquiry" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="367.9977779737176" y="220.00266643153896" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-19" value="District Table" style="whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-20" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1" target="e6gerDq43n6z80vcDyS_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="131" as="sourcePoint" />
+            <mxPoint x="429" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="439" y="200" />
+              <mxPoint x="429" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-22" value="District Info" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="439.9977779737176" y="190.00266643153896" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-23" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=1;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438" y="300.0400000000001" as="sourcePoint" />
+            <mxPoint x="558" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-25" value="Shanghai Map" style="whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6gerDq43n6z80vcDyS_-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="487" y="220" as="sourcePoint" />
+            <mxPoint x="427" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-27" value="Places Inquiry" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="550.9977779737176" y="299.00266643153896" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-28" value="Places Location" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="470.9977779737176" y="218.00266643153896" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="277" as="sourcePoint" />
+            <mxPoint x="260" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-30" value="Metro Table" style="whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="180" y="165" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-31" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203" y="195" as="sourcePoint" />
+            <mxPoint x="331" y="304" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="202.65" y="304.16" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-32" value="Metro Inquiry" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="560.9977779737176" y="309.00266643153896" as="geometry">
+            <mxPoint x="-259" y="-62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-33" value="Metro Info" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="464.9977779737176" y="340.00266643153896" as="geometry">
+            <mxPoint x="-259" y="-62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-34" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="sourcePoint" />
+            <mxPoint x="138" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-35" value="&amp;nbsp;Restaurant Table" style="whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-36" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" edge="1" parent="1" target="e6gerDq43n6z80vcDyS_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="240" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="340" />
+              <mxPoint x="80" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-37" value="Restaurant Inquiry" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="399.9977779737176" y="370.00266643153896" as="geometry">
+            <mxPoint x="-259" y="-62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-38" value="Restaurant Info" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="349.9977779737176" y="400.00266643153896" as="geometry">
+            <mxPoint x="-259" y="-62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-40" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="368" y="367" as="sourcePoint" />
+            <mxPoint x="150" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="388" y="447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-41" value="Fast Food&amp;amp;&lt;br&gt;Drinks Table" style="whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-42" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="e6gerDq43n6z80vcDyS_-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="303" y="399" as="sourcePoint" />
+            <mxPoint x="353" y="359" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="399" />
+              <mxPoint x="353" y="399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6gerDq43n6z80vcDyS_-45" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="e6gerDq43n6z80vcDyS_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="390" as="sourcePoint" />
+            <mxPoint x="240" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="354" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
